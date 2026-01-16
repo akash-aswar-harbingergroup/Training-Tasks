@@ -1,0 +1,11 @@
+﻿timestamp,level,user_id,event,message
+01-01-2026 08:15,INFO,101,login,User logged in successfully
+01-01-2026 08:17,WARNING,102,timeout,Session timeout after inactivity
+01-01-2026 08:20,ERROR,103,db_error,Database connection failed
+01-01-2026 08:25,INFO,101,logout,User logged out
+01-01-2026 09:05,INFO,104,login,User logged in successfully
+01-01-2026 09:07,ERROR,104,file_missing,Requested file not found
+01-01-2026 09:10,INFO,105,login,User logged in successfully
+01-01-2026 09:12,INFO,105,upload,File uploaded successfully
+01-01-2026 09:15,WARNING,105,low_storage,Storage space running low
+01-01-2026 09:20,INFO,106,login,User logged in successfully
